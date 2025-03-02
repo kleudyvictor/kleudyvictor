@@ -19,8 +19,6 @@ I’m expanding my knowledge in front-end development and design while working a
 
 Outside of tech, I love ⚽ watching football, 🎮 playing video games, 🎵 listening to music, and 📖 reading science books.
 
-👾 I also create content about programming & technology on my social media—feel free to check out my profile!
-
 📫 Get in touch: 📧 kleudyvictor@gmail.com
 
 ## My Skills Include
