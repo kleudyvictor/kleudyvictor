@@ -11,7 +11,7 @@ I’m expanding my knowledge in front-end development and design while working a
 <br/>
 🚀 Astro
 <br/>
-⚛️ React JS
+⚛️ Next JS
 <br/>
 
 👯 Looking to collaborate on open-source projects.
